@@ -1,37 +1,6 @@
 # 📰 AI-Generated “News” You Shouldn’t Trust
 
 <details>
-<summary>🇬🇧 English Version</summary>
-
-## Overview
-This project archives essays written with the help of AI, inspired by discussions, ideas, and even countless bits of nonsense from various people.  
-**Everything in this repository — including the project structure, essays, and content — is generated or assembled using AI.**  
-**These texts are not meant to be factual news**; they reflect opinions, experiments, or playful commentary.  
-Readers should treat them as **thought experiments or reflections**, not authoritative sources.
-
-## Contents
-- `/essays` — Completed essays in Markdown format
-
-## Disclaimer
-> These essays, as well as the project itself, are based on ideas, discussions, and even countless nonsense from multiple contributors, processed and written using AI.  
-> They are primarily for reflection, experimentation, or entertainment.  
-> The content may not be accurate, complete, or fully reliable.
-
-## How to Contribute
-Contributions are welcome!  
-You can submit:
-- Pull Requests with new essays or edits  
-- Issues to discuss ideas, feedback, or improvements
-
-Please note that all submissions should respect the **experimental and opinion-based nature** of this project.
-
-## License
-All essays are shared under **CC BY-NC-SA 4.0**.  
-Non-commercial use and modifications are allowed, but attribution is required.
-
-</details>
-
-<details>
 <summary>🇰🇷 한국어 버전</summary>
 
 ## 개요
@@ -63,3 +32,29 @@ AI를 활용해 작성된 에세이를 기록합니다.
 비상업적 이용과 수정은 가능하지만, 출처를 반드시 명시해야 합니다.
 
 </details>
+
+## Overview
+This project archives essays written with the help of AI, inspired by discussions, ideas, and even countless bits of nonsense from various people.  
+**Everything in this repository — including the project structure, essays, and content — is generated or assembled using AI.**  
+**These texts are not meant to be factual news**; they reflect opinions, experiments, or playful commentary.  
+Readers should treat them as **thought experiments or reflections**, not authoritative sources.
+
+## Contents
+- `/essays` — Completed essays in Markdown format
+
+## Disclaimer
+> These essays, as well as the project itself, are based on ideas, discussions, and even countless nonsense from multiple contributors, processed and written using AI.  
+> They are primarily for reflection, experimentation, or entertainment.  
+> The content may not be accurate, complete, or fully reliable.
+
+## How to Contribute
+Contributions are welcome!  
+You can submit:
+- Pull Requests with new essays or edits  
+- Issues to discuss ideas, feedback, or improvements
+
+Please note that all submissions should respect the **experimental and opinion-based nature** of this project.
+
+## License
+All essays are shared under **CC BY-NC-SA 4.0**.  
+Non-commercial use and modifications are allowed, but attribution is required.
