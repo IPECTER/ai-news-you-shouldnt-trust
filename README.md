@@ -3,6 +3,8 @@
 <details>
 <summary>🇰🇷 한국어 버전</summary>
 
+<h3><a href="https://github.com/IPECTER/ai-news-you-shouldnt-trust/blob/main/essays/2025-10-30/minecraft-deobfuscation-kr.md">최신 뉴스</a></h3>
+
 ## 개요
 이 프로젝트는 여러 사람들의 대화와 아이디어, 수많은 개소리에서 나온 내용에서 영감을 얻어  
 AI를 활용해 작성된 에세이를 기록합니다.  
@@ -32,6 +34,8 @@ AI를 활용해 작성된 에세이를 기록합니다.
 비상업적 이용과 수정은 가능하지만, 출처를 반드시 명시해야 합니다.
 
 </details>
+
+<h3><a href="https://github.com/IPECTER/ai-news-you-shouldnt-trust/blob/main/essays/2025-10-30/minecraft-deobfuscation-en.md">Latest News</a></h3>
 
 ## Overview
 This project archives essays written with the help of AI, inspired by discussions, ideas, and even countless bits of nonsense from various people.  
